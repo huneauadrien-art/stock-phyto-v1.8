@@ -1,0 +1,11 @@
+INSTALLATION PROPRE SOUS WINDOWS
+
+1. Décompresser ce ZIP dans un NOUVEAU dossier.
+2. Ouvrir ce nouveau dossier dans Visual Studio Code.
+3. Ouvrir Terminal > Nouveau terminal.
+4. Vérifier que le terminal est bien dans le dossier contenant package.json.
+5. Exécuter : npm install
+6. Puis : npm run dev
+
+Ne pas recopier ce projet par-dessus une ancienne version contenant déjà node_modules.
+Le fichier package-lock.json utilise maintenant le registre public officiel npm.
